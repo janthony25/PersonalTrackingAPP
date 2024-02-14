@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalTracking", "PersonalTracking\PersonalTracking.csproj", "{AEB401E6-AD47-47F6-8A53-941F75F0F8A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{02960AFE-0CFE-4087-8970-2EA6D26A8631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{A4CA093F-8405-4329-9563-84E2562F85B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB401E6-AD47-47F6-8A53-941F75F0F8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB401E6-AD47-47F6-8A53-941F75F0F8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB401E6-AD47-47F6-8A53-941F75F0F8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB401E6-AD47-47F6-8A53-941F75F0F8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02960AFE-0CFE-4087-8970-2EA6D26A8631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02960AFE-0CFE-4087-8970-2EA6D26A8631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02960AFE-0CFE-4087-8970-2EA6D26A8631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02960AFE-0CFE-4087-8970-2EA6D26A8631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4CA093F-8405-4329-9563-84E2562F85B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4CA093F-8405-4329-9563-84E2562F85B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4CA093F-8405-4329-9563-84E2562F85B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4CA093F-8405-4329-9563-84E2562F85B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49BF768D-5097-46C4-A5E0-301A227F6EB1}
+	EndGlobalSection
+EndGlobal
